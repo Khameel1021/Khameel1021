@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif)](https://github.com/Khameel1021)
 <h1 align="center">Hey there, I'm Khameel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
